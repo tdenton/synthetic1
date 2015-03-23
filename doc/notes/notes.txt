@@ -1,0 +1,35 @@
+Synthetic Surrealism
+howto
+Part 1
+What is Synthetic Surrealism? The central feature of Synthetic Surrealism is an artificial horizon. This feature serves to partition art into two partitions, art with an artificial horizon and art which doesn't have one. This partition is not a statement about the quality of the art. Nevertheless we will show how this can be a useful concept to further understanding of both Synthetic Surrealism and art which does not fall into this category.
+
+First let's look at some Synthetic Surrealism and learn how to identify it.
+First let's look at a work of art by Harvey Weinreich. It's easy to see that although the work is abstract, an artificial horizon divides the piece. We can imagine the entire piece as some sort of fantastic landscape.
+(Pix)
+The criteria for Synthetic Surrealism stipulates that an artificial horizon is a required visual element.
+So that was easy.
+
+Motivation
+Whereas in recent years we have seen an exponential increase in technology related to computer vision, sensors, and object recognition, it is incumbent on artists and painters in particular, to rethink their philosophy in order to remain relevant. In order to remain thought leaders artists must have a new approach or risk being relegated to the ranks of the decorative artists. This new philosophy must embrace technology and offer us a new way to see and interpret art. In addition, it must provide an entry point for the common man who feels disenfranchised by modern art because they can't understand it.
+
+Historical context
+Phl long history of supporting art
+More murals than any other city
+Lot of public art
+World leading museums
+Art schools
+World leading research institutions in computer science
+First computer
+
+Classical art depictions of reality events people places
+Impressionism depictions of how artists see reality
+Post Impressionism depicts how artists feel
+Modern art create an alternative world for the viewer
+
+Instead of inviting the viewer into the painting synthetic surrealism invites the viewer to be the painting
+
+Artists must understand the rudiments of object recognition
+
+Connection to mathematics
+
+Drawing a line connects the nervous system of the artist to the work. Entropy is injected

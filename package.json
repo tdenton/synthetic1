@@ -1,0 +1,28 @@
+{
+  "name": "synthetic1",
+  "version": "0.0.1",
+  "description": "SyntheticSurrealism",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tdenton",
+  "license": "",
+  "devDependencies": {
+    "del": "^0.1.1",
+    "gulp": "^3.8.7",
+    "gulp-bower-files": "^0.2.7",
+    "gulp-cleanhtml": "0.0.2",
+    "gulp-compressor": "^0.1.0",
+    "gulp-concat": "^2.3.4",
+    "gulp-filter": "^1.0.0",
+    "gulp-if": "^1.2.4",
+    "gulp-ignore": "^1.2.0",
+    "gulp-imagemin": "^1.0.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-s3": "^0.3.0",
+    "gulp-sourcemaps": "^1.1.1",
+    "gulp-uglify": "^0.3.1",
+    "main-bower-files": "^1.0.2"
+  }
+}

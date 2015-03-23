@@ -1,0 +1,215 @@
+
+#header_logo {
+    margin-top: -11px;
+    margin-top: -9px;
+    max-width: 130px;
+    max-height: 36px;
+}
+
+.no-border {
+    border-width: 0px;
+    border-style: none;
+}
+
+.tight-well {
+    margin-bottom: 0px;
+}
+
+.tight-well2 {
+    margin-bottom: 0px;
+    padding-bottom: 9px;
+}
+
+.navbar-header {
+    width: 100%;
+}
+
+.nav_spacer {
+    padding-top: 55px;
+}
+
+.section_hdr {
+    /*height: 55px;*/
+}
+
+/* Undo the collapsing navbar */
+.navbar-collapse {
+    display: block !important;
+    height: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+
+}
+
+.navbar-toggle {
+    display: none;
+}
+
+.navbar-collapse {
+    border-top: 0;
+}
+
+.navbar-brand {
+    margin-left: -15px;
+}
+
+/* Always apply the floated nav */
+.navbar-nav {
+    float: left;
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.navbar-nav > li {
+    float: left;
+}
+
+.navbar-nav > li > a {
+    padding: 15px;
+}
+
+/* Redeclare since we override the float above */
+.navbar-nav.navbar-right {
+    float: right;
+}
+
+/*end of navbar no collapse */
+
+.panel-primary > .panel-heading {
+    border-color: transparent;
+    border: none;
+    background-color: #404790;
+    border-radius: 0px;
+    font-size: 22px;
+    font-weight: 300;
+    color: #ffffff;
+    text-align: center;
+}
+
+.panel-primary {
+
+    border-color: transparent;
+    border: none;
+    border-radius: 0px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #171717;
+    background-color: #8D95B2;;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+.alert-info {
+    color: #171717;
+    background-color: #3423c0;
+    border-color: #171717;
+
+}
+
+.font_heavy {
+    font-weight: 100;
+    font-size: xx-large;
+    color: #ffffff;
+}
+
+.btn {
+    border: none;
+    border-radius: 0px;
+    background-color: #cdcdcd;
+    color: #808080;
+
+}
+
+.tagline {
+    font-style: italic;
+    font-size: medium;
+    font-weight: 400;
+}
+
+.btn-group-justified > .btn-group .btn {
+    width: 93%;
+
+}
+
+.tiny_text_left {
+    font-size: x-small;
+    margin-left: 5px;
+}
+
+.tiny_text_right {
+    font-size: x-small;
+    margin-right: 4px;
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 12px;
+    }
+
+    .navbar-nav > li > a {
+        padding: 13px;
+    }
+
+    #header_logo {
+
+        margin-left: 5px;
+    }
+
+    .btn-group > .btn-score {
+        padding: 2px;
+    }
+
+    .tiny_text_right {
+        margin-right: 0px;
+    }
+
+}
+
+/*img{*/
+/*height:640px;*/
+/*width: auto;*/
+/*}*/
+
+.copyright {
+    font-size: xx-small !important;
+    text-align: center !important;
+}
+
+.photo_div {
+    text-align: center;
+}
+
+.panel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 32px !important;
+    color: inherit;
+    font-weight: 400;
+}
+
+.art{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center !important;
+}
+
+.artist{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center !important;
+    font-size: small;
+    padding: 10px;
+}
+
+.art1{
+    padding: 20px;
+}
+
+.ascii_art{
+    font-size: xx-large;
+    font-weight: 900;
+}

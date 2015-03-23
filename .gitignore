@@ -4,3 +4,4 @@ dist
 *.swp
 *.ipynb
 .ipynb_checkpoints
+aws.json

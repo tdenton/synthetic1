@@ -1,2 +1,4 @@
-# synthetic1
-Synthetic Surrealism
+
+
+run gulp to watch files.
+
